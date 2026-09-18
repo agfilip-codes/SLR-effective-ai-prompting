@@ -15,8 +15,8 @@ NLP and HCI research measure different things while both calling it "prompting e
 
 ## What's here
 
-- `SLR_writeup.pdf`: full literature review with methodology and source analysis
-- `poster.png`: research poster summarizing findings
+- `Adrian Filip - Systematic Literature Review.pdf`: full literature review with methodology and source analysis
+- `Revised_SLR_Poster.png`: research poster summarizing findings
 
 ## Method
 
